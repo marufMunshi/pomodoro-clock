@@ -1,0 +1,16 @@
+// Basic
+@import 'basic/_variables.scss';
+@import 'basic/_basic.scss';
+
+// Helpers
+@import 'helpers/_mixins.scss';
+@import 'helpers/_media-query.scss';
+@import 'helpers/_animation.scss';
+@import 'helpers/_hover-effect.scss';
+
+// Components
+@import 'components/_nav.scss';
+@import 'components/_footer.scss';
+
+// Pages
+@import 'pages/_home.scss';
